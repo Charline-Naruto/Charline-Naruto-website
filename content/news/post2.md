@@ -6,7 +6,7 @@ categories = ["研究","教育研究科", "センター"]
 banner = "img/banners/banner-4.jpg"
 authors = [""]
 authorlink = "https://www.example.com"
-draft = false
+draft = true
 +++
 
 教育現場でのデータ活用を学ぶ研修「教育データサイエンス入門」が7月30日に開催されました。石川先生、阪東先生、長井先生による講義や演習を通じて、多くの気づきと学びが生まれました。

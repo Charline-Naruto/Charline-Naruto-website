@@ -6,7 +6,7 @@ categories = ["研究","教育研究科", "センター"]
 banner = "img/banners/banner-4.jpg"
 authors = [""]
 authorlink = "https://www.example.com"
-draft = false
+draft = true
 +++
 
 近年、教育現場では多様な学習データが日々蓄積され、その効果的な活用が注目されています。本シンポジウムでは、教育データサイエンスの基礎と実践事例を紹介し、学校現場での必要性を分かりやすく解説します。教育者の皆さまのご参加をお待ちしております。
