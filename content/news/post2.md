@@ -26,14 +26,14 @@ draft = false
     <td style="padding:15px; font-size:1em; line-height:1.8;">
       <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
         <img src="/img/formation-picture0.jpg" alt="活動の様子1" style="width: 30%; max-width: 250px; border-radius: 8px;" />
-        <img src="{{ "img/formation-picture2.jpg" | relURL }}" alt="活動の様子2" style="width: 30%; max-width: 250px; border-radius: 8px;" />
-        <img src="{{ "img/formation-picture9.jpg" | relURL }}" alt="活動の様子3" style="width: 30%; max-width: 250px; border-radius: 8px;" />
+        <img src="/img/formation-picture2.jpg" alt="活動の様子2" style="width: 30%; max-width: 250px; border-radius: 8px;" />
+        <img src="/img/formation-picture9.jpg" alt="活動の様子3" style="width: 30%; max-width: 250px; border-radius: 8px;" />
       </div>
       <br>
       <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-        <img src="{{ "img/formation-picture4.jpg" | relURL }}" alt="活動の様子4" style="width: 30%; max-width: 250px; border-radius: 8px;" />
-        <img src="{{ "img/formation-picture5.jpg" | relURL }}" alt="活動の様子5" style="width: 30%; max-width: 250px; border-radius: 8px;" />
-        <img src="{{ "img/formation-picture6.jpg" | relURL }}" alt="活動の様子6" style="width: 30%; max-width: 250px; border-radius: 8px;" />
+        <img src="/img/formation-picture4.jpg" alt="活動の様子4" style="width: 30%; max-width: 250px; border-radius: 8px;" />
+        <img src="/img/formation-picture5.jpg" alt="活動の様子5" style="width: 30%; max-width: 250px; border-radius: 8px;" />
+        <img src="/img/formation-picture6.jpg" alt="活動の様子6" style="width: 30%; max-width: 250px; border-radius: 8px;" />
       </div>
     </td>
   </tr>
