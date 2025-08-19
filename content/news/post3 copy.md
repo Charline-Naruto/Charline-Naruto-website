@@ -90,5 +90,5 @@ draft = false
 
 ## <div style="background-color:#E8F5E9; padding:8px;">ポスター</div>
 <p align="center">
-  <img src="{{< relURL "img/poster-symposium-2025.png" >}}" alt="教育データ活用シンポジウム ポスター" width="400">
+  <img src="{{ "img/poster-symposium-2025.png" | relURL }}" alt="教育データ活用シンポジウム ポスター" width="400">
 </p>
