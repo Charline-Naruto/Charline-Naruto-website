@@ -1,4 +1,4 @@
-baseURL = "https://www.naruto-u.ac.jp/center/erdad/"
+baseURL = "/center/erdad/"
 title = "教師のためのAI・DS研究開発センター"
 theme = "hugo-universal-theme"
 themesDir = "themes"
