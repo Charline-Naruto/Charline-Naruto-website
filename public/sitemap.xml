@@ -2,52 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/research/research1/</loc>
+    <loc>http://localhost:1313/center/erdad/research/research1/</loc>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/research/research2/</loc>
+    <loc>http://localhost:1313/center/erdad/research/research2/</loc>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/research/research3/</loc>
+    <loc>http://localhost:1313/center/erdad/research/research3/</loc>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/news/</loc>
+    <loc>http://localhost:1313/center/erdad/news/post3-copy/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/</loc>
+    <loc>http://localhost:1313/center/erdad/news/post2/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/news/post1/</loc>
+    <loc>http://localhost:1313/center/erdad/categories/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/news/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/tags/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/categories/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/tags/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/categories/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%A7%91/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/categories/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/tags/%E7%A0%94%E4%BF%AE/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/tags/%E9%B3%B4%E9%96%80%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/news/post1/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/news/post4/</loc>
+    <loc>http://localhost:1313/center/erdad/tags/%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/categories/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/center/erdad/authors/</loc>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/tags/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/center/erdad/research/</loc>
   </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/categories/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/tags/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/categories/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%A7%91/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/categories/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/tags/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/tags/%E9%B3%B4%E9%96%80%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/authors/</loc>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/research/</loc>
-  </url><url>
-    <loc>https://www.naruto-u.ac.jp/center/erdad/center/</loc>
+    <loc>http://localhost:1313/center/erdad/center/</loc>
   </url>
 </urlset>
