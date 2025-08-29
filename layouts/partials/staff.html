@@ -21,7 +21,7 @@
                                 <div class="staff-member text-center" style="{{ if .profile_url }}cursor:pointer;{{ end }}">
                                     <!-- Photo du staff -->
                                     <div class="staff-photo">
-                                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive">
+                                        <img src="{{ .image | relURL }}" alt="{{ .name }}" class="img-responsive">
                                     </div>
                                     <!-- Conteneur pour les informations -->
                                     <div class="staff-info staff-info-fixed">
