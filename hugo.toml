@@ -1,4 +1,4 @@
-baseURL = "/center/erdad/"
+baseURL = "https://www.naruto-u.ac.jp/center/erdad/"
 relativeURLs = false
 canonifyURLs = true
 
