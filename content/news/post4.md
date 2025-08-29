@@ -6,7 +6,7 @@ categories = ["研究","教育研究科", "センター"]
 banner = "img/banners/banner-4.jpg"
 authors = [""]
 authorlink = "https://www.example.com"
-draft = false
+draft = true
 +++
 
 new sur le 文化フォーラム
