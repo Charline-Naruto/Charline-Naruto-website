@@ -1,6 +1,6 @@
-baseURL = "https://www.naruto-u.ac.jp/center/erdad/"
-relativeURLs = false
-canonifyURLs = true
+baseURL = "https://white-coast-05e3c1100.2.azurestaticapps.net/"
+# relativeURLs = false
+# canonifyURLs = true
 
 title = "教師のためのAI・DS研究開発センター"
 theme = "hugo-universal-theme"
