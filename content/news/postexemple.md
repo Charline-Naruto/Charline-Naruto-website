@@ -8,6 +8,8 @@ authors = [""]
 authorlink = "https://www.example.com"
 draft = true
 +++
+https://www.naruto-u.ac.jp/center/stac/docs/2024122700028/
+
 
 大阪教育大学主催セミナー「教育現場の働き方改革～生成AIがもたらす校務効率化の新時代～」に登壇します
 2025/5/24 12:40

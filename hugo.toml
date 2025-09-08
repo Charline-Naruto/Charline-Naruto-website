@@ -63,6 +63,12 @@ pluralizelisttitles = false
     identifier = "menu.4"
     url        = "/#staff"
     weight     = 4  
+
+[[menu.main]]
+    name       = "研究実績"
+    identifier = "menu.6"
+    url        = "/achievements/"
+    weight     = 6
     
 [[menu.main]]
     name       = "研究紹介"

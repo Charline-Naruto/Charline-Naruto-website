@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "headers.html" . }}
+    <style>
+      .category-box {
+        background-color: #e6f4ec; /* vert clair */
+        border-radius: 0;
+        padding: 20px;
+        margin-bottom: 30px;
+      }
+
+      .category-box.empty {
+        background-color: #f0f0f0; /* gris clair pour les vides */
+      }
+
+      .category-title {
+        font-size: 1.4em;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+
+      .category-entry {
+        margin: 10px 0;
+      }
+
+      .category-entry:not(:last-child)::after {
+        content: "";
+        display: block;
+        margin: 10px 0;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .side-menu .disabled {
+        color: gray;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="top"></div>
+    <div id="all">
+      {{ partial "top.html" . }}
+      {{ partial "nav.html" . }}
+      {{ partial "breadcrumbs.html" . }}
+
+      <div class="container">
+        <div class="row">
+          <!-- Sidebar -->
+          <div class="col-md-3">
+            <h2>研究実績</h2>
+            <ul class="side-menu">
+              <li><a href="#papers">論文</a></li> <!-- Articles de revues à comité de lecture -->
+              <li><a href="#presentations">口頭発表（学会・フォーラム）</a></li>
+              <li><a href="#lectures">講演（授業・研修など）</a></li> <!-- Conférences, séminaires, actes de colloques (proceedings) -->
+              <li><a href="#misc">MISC</a></li> <!-- Notes, rapports, éditoriaux, etc. (non-indexés) -->
+              <li><a href="#books" class="disabled">書籍等出版物</a></li> <!-- Livres, chapitres, manuels, etc. -->
+              <li><a href="#contributions" class="disabled">社会貢献活動</a></li> <!-- Activités de diffusion, vulgarisation, formation, etc. -->
+              <li><a href="#awards"class="disabled">受賞</a></li> <!-- Prix ou distinctions reçues --> 
+            </ul>
+          </div>
+
+          <!-- Main content -->
+          <div class="col-md-9">
+            <div class="content">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {{ partial "footer.html" . }}
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>
+<script>
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener("click", function(e) {
+      e.preventDefault();
+      const target = document.querySelector(this.getAttribute("href"));
+      if (target) {
+        window.scrollTo({
+          top: target.offsetTop - 60, // ajuste selon la hauteur du header
+          behavior: "smooth"
+        });
+      }
+    });
+  });
+</script>

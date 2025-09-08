@@ -8,8 +8,11 @@
   </url><url>
     <loc>http://localhost:1313/center/erdad/research/research3/</loc>
   </url><url>
-    <loc>http://localhost:1313/center/erdad/news/post3-copy/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/center/erdad/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/center/erdad/achievements/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/center/erdad/news/post2/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
@@ -30,9 +33,6 @@
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/center/erdad/categories/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%A7%91/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/center/erdad/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/center/erdad/categories/%E7%A0%94%E7%A9%B6/</loc>
