@@ -1,10 +1,10 @@
 +++
-title = "研究実績"
+title = "研究業績"
 description = ""
 draft = false
 type = "achievements"
 layout = "single"
-menu.main = { name = "研究実績", identifier = "menu.6", weight = 6 }
+menu.main = { name = "研究業績", identifier = "menu.6", weight = 6 }
 date = "2025-09-04"
 +++
 
@@ -15,7 +15,7 @@ date = "2025-09-04"
     Carlot, C. & Bando, T. (2025).Transitioning from Visual to Textual Programming Using a Hybrid Environment in a Creative Project, <i>Proceedings of International Conference on Technology Education (ICTE) 2025</i> (pp.597-607). International Conference on Technology Education. https://sites.google.com/view/icte-2025/the-conference/proceedings
   </div>
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ date = "2025-09-04"
    
    
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ date = "2025-09-04"
   </div>
    
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ date = "2025-09-04"
   </div>
   
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ date = "2025-09-04"
   <p>現在、該当データはありません。</p>
   
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>
 
@@ -99,6 +99,6 @@ date = "2025-09-04"
   <p>現在、該当データはありません。</p>
   
   <div style="text-align: right; margin-top: 1em;">
-    <a href="#top" class="btn btn-outline-secondary">↑ 研究実績ページトップに戻る</a>
+    <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
 </div>

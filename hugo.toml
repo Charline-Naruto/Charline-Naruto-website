@@ -65,7 +65,7 @@ pluralizelisttitles = false
     weight     = 4  
 
 [[menu.main]]
-    name       = "研究実績"
+    name       = "研究業績"
     identifier = "menu.6"
     url        = "/achievements/"
     weight     = 6
