@@ -35,9 +35,6 @@ date = "2025-09-04"
   <div class="category-entry">
     Carlot Charline, 阪東哲也. (2025年). ハイブリッド型プログラミング環境利用時における学習者の行動特性に関する探索的研究, <i>年会論文集41</i>(pp.310-311). 日本教育情報学会第41回年会.
   </div>
-  <div class="category-entry">
-    田中義人. (2025年06月14日) 空海はなぜ弘法大師と呼ばれるのか[招待講演], 香川県NIE研究会, 香川県.
-  </div>
    
    
   <div style="text-align: right; margin-top: 1em;">
@@ -57,7 +54,10 @@ date = "2025-09-04"
   <div class="category-entry">
     阪東哲也, 石川勝彦, 長井映雄. (2025年7月30日). 教育データサイエンス入門 [研修]. 県大学研修, 鳴門教育大学.
   </div>
-   
+  <div class="category-entry">
+    田中義人. (2025年06月14日) 空海はなぜ弘法大師と呼ばれるのか[招待講演], 香川県NIE研究会, 香川県.
+  </div>
+  
   <div style="text-align: right; margin-top: 1em;">
     <a href="#top" class="btn btn-outline-secondary">↑ 研究業績ページトップに戻る</a>
   </div>
