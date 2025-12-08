@@ -12,6 +12,12 @@ date = "2025-09-04"
   <div class="category-title" id="papers">論文</div>
 <!-- Format : Auteur, A. A. (Année). Titre de l’article. Dans Titre des actes de conférence. Association/Organisateur. URL -->
   <div class="category-entry">
+    宮崎幸弘 & 阪東哲也 (202?).探究の深化に向けた高校生の社会的問題解決と個人特性の関係性の検討, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
+  </div>
+  <div class="category-entry">
+    福多朝子 & 阪東哲也 (202?).小学校中・高学年段階における情報を活用した問題解決能力とICT活用能力の関係, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
+  </div>
+  <div class="category-entry">
     Carlot, C. & Bando, T. (2025).Transitioning from Visual to Textual Programming Using a Hybrid Environment in a Creative Project, <i>Proceedings of International Conference on Technology Education (ICTE) 2025</i> (pp.597-607). International Conference on Technology Education. https://sites.google.com/view/icte-2025/the-conference/proceedings
   </div>
   <div style="text-align: right; margin-top: 1em;">
