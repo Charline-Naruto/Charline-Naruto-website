@@ -12,10 +12,10 @@ date = "2025-09-04"
   <div class="category-title" id="papers">論文</div>
 <!-- Format : Auteur, A. A. (Année). Titre de l’article. Dans Titre des actes de conférence. Association/Organisateur. URL -->
   <div class="category-entry">
-    宮崎幸弘 & 阪東哲也 (202?).探究の深化に向けた高校生の社会的問題解決と個人特性の関係性の検討, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
+    宮崎幸弘 & 阪東哲也 (2025).探究の深化に向けた高校生の社会的問題解決と個人特性の関係性の検討, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
   </div>
   <div class="category-entry">
-    福多朝子 & 阪東哲也 (202?).小学校中・高学年段階における情報を活用した問題解決能力とICT活用能力の関係, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
+    福多朝子 & 阪東哲也 (2025).小学校中・高学年段階における情報を活用した問題解決能力とICT活用能力の関係, <i>日本教育情報学会誌「教育情報研究」第41巻第2・3合併号</i> (pp.??-??).
   </div>
   <div class="category-entry">
     Carlot, C. & Bando, T. (2025).Transitioning from Visual to Textual Programming Using a Hybrid Environment in a Creative Project, <i>Proceedings of International Conference on Technology Education (ICTE) 2025</i> (pp.597-607). International Conference on Technology Education. https://sites.google.com/view/icte-2025/the-conference/proceedings
@@ -52,7 +52,10 @@ date = "2025-09-04"
 <!-- Format général : Auteur, A. A., Auteur, B. B., & Auteur, C. C. (Année, Mois Jour–Jour). Titre de la présentation [Type de communication]. Nom de l’événement, Lieu.-->
   <div class="category-title" id="presentations">講演</div>
   <div class="category-entry">
-    阪東哲也. (2025年7月30日–8月8日). 「教師のためのAI・DS研究開発センター」のこれからの取組について[フォーラム]. 第50回鳴門教育大学教育・文化フォーラム. 鳴門教育大学.
+    阪東哲也. (2025年12月9日). 教育データ科学を拓く教員養成の挑戦[コンソーシアム]. 数理・データサイエンス・AI教育強化拠点コンソーシアム四国ブロックワークショップ, 徳島大学.
+  </div>
+  <div class="category-entry">
+    阪東哲也. (2025年7月30日–8月8日). 「教師のためのAI・DS研究開発センター」のこれからの取組について[フォーラム]. 第50回鳴門教育大学教育・文化フォーラム, 鳴門教育大学.
   </div>
   <div class="category-entry">
     石川勝彦. (2025年7月30日–8月8日). 教育データ利活用一歩前 ー 児童のウェルビーイングのための教育データサイエンスを例に ー[フォーラム]. 第50回鳴門教育大学教育・文化フォーラム. 鳴門教育大学.
