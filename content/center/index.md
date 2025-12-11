@@ -1,5 +1,6 @@
 +++
-title = "教師のためのAI・DS研究開発センターについて"
+title= "教師のためのAI・DS研究開発センターについて"
+pagetitle= "Center"
 description = ""
 draft = false
 type = "center"

@@ -3,7 +3,11 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ $title_plain := .Title | markdownify | plainify }}
-<title>{{ $title_plain }}</title>
+{{ if eq .Section "research" }}
+  <title>Research</title>
+{{ else }}
+  <title>{{ with .Params.pagetitle }}{{ . }}{{ else }}{{ $title_plain }}{{ end }}</title>
+{{ end }}
 <meta name="author" content="{{ .Param "author" }}" />
 {{ $keywords := .Site.Params.defaultKeywords | default (slice "" | first 0) }}
 {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}
