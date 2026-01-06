@@ -17,7 +17,7 @@ draft = false
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-top: 24px;">
 
   <!-- Texte -->
-  <div style="flex: 1 1 60%; min-width: 280px; line-height: 1.8;"><!--</br></br></br>-->
+  <div style="flex: 1 1 60%; min-width: 280px; line-height: 1.8;"></br></br></br>
     <p>
       当日は、鳴門教育大学の阪東先生が、実践報告
      「教育データ科学から見えてくる授業改善と教師のパースペクティブ」に登壇され、
@@ -36,11 +36,10 @@ draft = false
   </div>
   <!-- Images -->
   <div style="flex: 1 1 35%; min-width: 240px;">
-  </br>
     <img src="/img/EDE2.jpg" alt="実践報告の様子"
          style="width: 100%; max-width: 300px; border-radius: 8px; margin-bottom: 10px;" />
-    <!--<img src="/img/EDE3.png" alt="パネルディスカッションの様子"
-         style="width: 100%; max-width: 300px; border-radius: 8px;" /> -->
+    <img src="/img/EDE3.png" alt="パネルディスカッションの様子"
+         style="width: 100%; max-width: 300px; border-radius: 8px;" />
   </div>
 </div>
 
