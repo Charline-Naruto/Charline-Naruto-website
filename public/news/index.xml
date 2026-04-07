@@ -6,14 +6,21 @@
     <description>Recent content in News on 教師のためのAI・DS研究開発センター</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/center/erdad/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《鳴門教育大学》教育データ活用システム体験研修を実施しました</title>
+      <link>http://localhost:1313/center/erdad/news/post9/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/center/erdad/news/post9/</guid>
+      <description>&lt;p&gt;大学教員向けLEAF体験研修を実施しました（2026年3月25日）&lt;/p&gt;&#xA;&lt;p&gt;2026年3月25日、本学において大学教員を対象とした教育データ活用システム（LEAF）の体験研修を実施しました。&lt;/p&gt;&#xA;&lt;p&gt;本研修では、「学習者の『わからない』をデータから捉える」ことをテーマに、授業の中で学生がどこまで理解しているのか、どのように考えているのかを把握するための方法について紹介しました。&lt;/p&gt;&#xA;&lt;p&gt;当日は、LEAF（BookRoll・LogPalette）を用いたハンズオンを行い、教材の閲覧ログや学習行動データを通して、学習プロセスや理解状況を可視化する方法を体験しました。また、教育データを活用した授業改善の可能性についても共有し、参加者同士で意見交換を行いました。&lt;/p&gt;&#xA;&lt;p&gt;LEAF（Learning Evidence Analytics Framework）は、京都大学大学院情報学研究科の緒方広明教授の研究室において開発された、学習支援・学習分析システムです。教材配信機能を持つBookRollと、学習ログを可視化・分析するLogPaletteから構成されており、学習者の行動や理解の過程をデータとして捉え、教育実践の改善に活用することが可能です。&lt;/p&gt;&#xA;&lt;p&gt;本学では今後も、教育データの活用を通じて、学生一人ひとりの学びを支える教育の実現を目指してまいります。&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/center/erdad/img/2026-3-25_Poster.jpg&#34; alt=&#34;大学教員向けLEAF体験研修 ポスター&#34; width=&#34;400&#34;&gt;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026年3月10日　シンポジウム「教育データのさらなる利活用の促進について考える」公開のお知らせ</title>
       <link>http://localhost:1313/center/erdad/news/post8/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/center/erdad/news/post8/</guid>
-      <description>&lt;p&gt;2026年3月10日（火）13:00〜17:30、日本学術会議主催「公開シンポジウム：教育データのさらなる利活用の促進について考える」が、京都大学にて開催されます。本シンポジウムでは、教育データ利活用（ラーニングアナリティクス）に関わる政策関係者や研究者が登壇し、教育におけるデータ利活用の現状や今後の課題について議論を行う予定です。&lt;/p&gt;&#xA;&lt;p&gt;本センターからは、阪東先生が登壇し、教育データの利活用に関する最新動向や研究の意義について講演・意見交換を行う予定です。&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/center/erdad/img/poster2026-3-10.png&#34; alt=&#34;教育データ活用シンポジウム ポスター&#34; width=&#34;400&#34;&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;h2 id=&#34;開催概要&#34;&gt;&lt;div style=&#34;background-color:#E8F5E9; padding:8px;&#34;&gt;開催概要&lt;/div&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;：2026年3月10日（火）13:00〜17:30&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;開催形式&lt;/strong&gt;：対面（京都大学）＋オンライン&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;対象&lt;/strong&gt;：教育・研究関係者、教育データ利活用に関心のある方&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt;：無料&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;詳細&lt;/strong&gt; : &lt;a href=&#34;https://www.scj.go.jp/ja/event/2026/396-s-0310.html&#34;&gt;https://www.scj.go.jp/ja/event/2026/396-s-0310.html&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;参加申し込み方法&#34;&gt;&lt;div style=&#34;background-color:#E8F5E9; padding:8px;&#34;&gt;参加申し込み方法&lt;/div&gt;&lt;/h2&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center; flex-wrap: wrap; gap: 10px;&#34;&gt;&#xD;&#xA;  &lt;span&gt;&#xD;&#xA;    参加をご希望の方は、右のボタンより事前にお申し込みください。&lt;br&gt;&lt;br&gt;&#xD;&#xA;    &lt;strong&gt;申込締切：2026年3月6日（金）&lt;/strong&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;https://forms.gle/cp4Dc2kirMCksqNHA&#34;&#xD;&#xA;     target=&#34;_blank&#34;&#xD;&#xA;     rel=&#34;noopener noreferrer&#34;&#xD;&#xA;     style=&#34;background-color: #429645ff; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-left: 20px;&#34;&gt;&#xD;&#xA;     申し込みフォームはこちら&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;2026年3月10日（火）13:00〜17:30、日本学術会議主催「公開シンポジウム：教育データのさらなる利活用の促進について考える」が、京都大学にて開催されます。本シンポジウムでは、教育データ利活用（ラーニングアナリティクス）に関わる政策関係者や研究者が登壇し、教育におけるデータ利活用の現状や今後の課題について議論を行う予定です。&lt;/p&gt;&#xA;&lt;p&gt;本センターからは、阪東先生が登壇し、教育データの利活用に関する最新動向や研究の意義について講演・意見交換を行う予定です。&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/center/erdad/img/poster2026-3-10.png&#34; alt=&#34;教育データ活用シンポジウム ポスター&#34; width=&#34;400&#34;&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;※ 詳細は、以下の日本学術会議公式ページをご確認ください。&lt;/strong&gt;&lt;/br&gt;&#xA;&lt;a href=&#34;https://www.scj.go.jp/ja/event/2026/396-s-0310.html&#34;&gt;https://www.scj.go.jp/ja/event/2026/396-s-0310.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EDE SIG3研究会において登壇されました (2025年12月20日)</title>
