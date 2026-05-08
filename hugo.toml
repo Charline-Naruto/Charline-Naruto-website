@@ -159,7 +159,7 @@ pluralizelisttitles = false
     address = '''<p class="footer-contact">経営企画戦略課：kikaku<img src="img/at.png" alt="@" class="at-symbol">naruto-u.ac.jp</p>'''
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
